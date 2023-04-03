@@ -3,7 +3,6 @@
 //Dev: Gustavo Gomes dos santos - 2111267
 //01/04/23
 
-<!--Tipo de documento-->
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.Dimension;
